@@ -1,0 +1,3 @@
+[submodule "SyncServer/MongoDB.Web"]
+	path = SyncServer/MongoDB.Web
+	url = https://github.com/marcosb/MongoDB.Web.git
